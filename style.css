@@ -1,111 +1,157 @@
 .all
 {
-    width: 1330px;
-    height: 7300px;
-    background-color: #252525;
+    width: 100%;
+    height: 560px;
+    background-color: #cdcdcd;
+}
+.fi
+{
+    height: 560px;
+    padding: 10px;
 }
 .first
 {
-    width: 1330px;
-    height: 900px;
+    height: 50px;
+    background-color:#ffc0cb;
+    margin-bottom: 10px;
+    border: 2px solid #fff;
 }
 .second
 {
-    width: 70%;
-    height: 15,5%;
-    margin-left: 15%;
+    height: 400px;
+    /* background-color: aquamarine; */
+    margin-bottom: 10px;
+    /* border: 2px solid #fff; */
+    display: flex;
 }
-.text1
+.third
 {
-    text-align: center;
-    font-weight: bold;
-    color: orange;
-    font-size: 35px;
+    height:60px;
+    background-color: black;
+    border: 2px solid #fff;
 }
-.text2
+.s1
 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: #04849f;
-    margin-top: 10px;
+    height: 400px;
+    width: 56%;
+    float: left;
+    /* display: flex; */
 }
-.list1
+.s11
 {
-    margin-left: 60px;
-    color: blanchedalmond;
-    font-size: 27px;
-    list-style: none;
-}
-.text3
-{
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: green;
-    margin-top: 10px;
-}
-.list2
-{
-    margin-left: 60px;
-    color: blanchedalmond;
-    font-size: 27px;
-    list-style: none;
-}
-.link
-{
-    margin-left: 60px;
-    color: blanchedalmond;
-    font-size: 27px;
-    text-decoration: none;
-}
-.text4
-{
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: #ffff00;
-    margin-top: 10px;
-}
-.text5
-{
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: darkturquoise;
-    margin-top: 10px;
-}
-.tag
-{
-    color: #ffff00;
-    text-decoration: none;
-    font-size: 15px;
-    text-align: right;
-    margin-top: 10px;
-}
-.text6
-{
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    color: floralwhite;
-    margin-top: 30px;
-}
-.abc
-{
-    width: 1330px;
-    height: 1100px;
-}
-.last
-{
-    width: 1330px;
-    height: 40px;
-    background-color: aqua;
-}
-.te
-{
-    font-weight: bold;
-    color: maroon;
-    text-align: center;
+    height: 41%;
+    background-color: #4ceba9;
+    border: 2px solid #fff;
     padding: 10px;
+    margin-bottom: 10px;
+}
+.s12
+{
+    /* background-color: black;
+    padding: 10px;
+    border: 2px solid #fff; */
+    height: 46%;
+    width: 50%;
+    float: left;
+}
+.s121
+{
+    height: 50%;
+    background-color: red;
+    border: 2px solid #fff;
+    margin-bottom: 10px;
+}
+.s122
+{
+    height: 50%;
+    background-color: #fe6d00;
+    border: 2px solid #fff;
+}
+.s13
+{
+    width: 48%;
+    height: 50%;
+    background-color: #f000ff;
+    border: 2px solid #fff;
+    float: right;
+}
+.s2
+{
+    height: 400px;
+    width: 44%;
+    float: right;
+}
+.s21
+{
+    height: 20% ;
+    /* background-color: #4ceba9;
+    border: 2px solid #fff; */
+    /* padding: 10px; */
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+.s211
+{
+    border: 2px solid #fff;;
+    height: 100%;
+    width: 78%;
+    background-color: #810081;
+    float: left;
+}
+.s212
+{
+    border: 2px solid #fff;;
+    height: 100%;
+    width: 19%;
+    background-color: #2f8b58;
+    margin-left: 9px;
+    float: right;
+}
+.s22
+{
+    height: 14%;
+    border: 2px solid #fff;
+    background-color: yellow;
+    margin-left: 10px;
+}
+.s23
+{
+    height: 45%;
+    /* display: flex; */
+}
+.s231
+{
+    height: 100%;
+    width: 31%;
+    background-color: #008083;
+    margin: 10px;
+    border: 2px solid #fff;
+    float: left;
+}
+.s232
+{
+    height: 100%;
+    width: 30%;
+    background-color: red;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    float: left;
+}
+.s233
+{
+    height: 100%;
+    width: 31%;
+    background-color: #008083;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    float:right;
+}
+.s24
+{
+    height: 11%;
+    background-color: #cb9d62;
+    border: 2px solid #fff;
+    margin-top: 20px;
+    margin-left: 10px;
 }
