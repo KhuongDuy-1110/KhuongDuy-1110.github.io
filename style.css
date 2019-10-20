@@ -1,111 +1,104 @@
 .all
 {
-    width: 1330px;
-    height: 7300px;
-    background-color: #252525;
+    width: 100%;
+    height: 48px;
+    background-color: #333333;
 }
-.first
+ul
 {
-    width: 1330px;
-    height: 900px;
+    display: flex;
 }
-.second
+li
 {
-    width: 70%;
-    height: 15,5%;
-    margin-left: 15%;
-}
-.text1
-{
-    text-align: center;
+    padding: 15px;
+    color: white;
     font-weight: bold;
-    color: orange;
-    font-size: 35px;
 }
-.text2
+.l2
 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: #04849f;
-    margin-top: 10px;
-}
-.list1
-{
-    margin-left: 60px;
-    color: blanchedalmond;
-    font-size: 27px;
     list-style: none;
+    background: white;
+    color: #333333;
+    box-shadow: 1px 1px 10px;
+    top: 48px;
+    right: -50px;
 }
-.text3
+.l3
 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: green;
-    margin-top: 10px;
+    color: #333333;
+    padding-left: 0px;
+    padding-right: 45px;
 }
-.list2
+.l5
 {
-    margin-left: 60px;
-    color: blanchedalmond;
-    font-size: 27px;
     list-style: none;
+    background: white;
+    color: #333333;
+    box-shadow: 1px 1px 10px;
+    top: 48px;
+    right: -108px;
 }
-.link
+.l4
 {
-    margin-left: 60px;
-    color: blanchedalmond;
-    font-size: 27px;
-    text-decoration: none;
+    color: #333333;
+    padding-left: 0px;
+    width: 130px;
+    padding: 15px;
 }
-.text4
+.l6
 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: #ffff00;
-    margin-top: 10px;
+    list-style: none;
+    background: white;
+    color: #333333;
+    box-shadow: 1px 1px 10px;
+    width: 200px;
+    padding-left: 0px;
+    top: 48px;
+    right: -120px;
 }
-.text5
+.l1:hover
 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 27px;
-    color: darkturquoise;
-    margin-top: 10px;
+    background: #ff0000;
+    color: black;
 }
-.tag
+.c1
 {
-    color: #ffff00;
-    text-decoration: none;
-    font-size: 15px;
-    text-align: right;
-    margin-top: 10px;
+    position: relative;
 }
-.text6
+.c2
 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    color: floralwhite;
-    margin-top: 30px;
+    display: none;
+    position: absolute;
 }
-.abc
+.c1:hover .c2
 {
-    width: 1330px;
-    height: 1100px;
+    display: block;
 }
-.last
+.l8
 {
-    width: 1330px;
-    height: 40px;
-    background-color: aqua;
+    display: none;
+    position: absolute;
 }
-.te
+.l7
 {
-    font-weight: bold;
-    color: maroon;
-    text-align: center;
-    padding: 10px;
+    position: relative;
+}
+.l7:hover .l8
+{
+    display: block;
+}
+.l8
+{
+    list-style: none;
+    background: white;
+    color: #333333;
+    box-shadow: 1px 1px 10px;
+    top: 0px;
+    right: -156px;
+}
+.l9
+{
+    color: #333333;
+    padding-left: 0px;
+    padding-right: 45px;
 }
