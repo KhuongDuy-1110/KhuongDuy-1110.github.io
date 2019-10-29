@@ -1,0 +1,111 @@
+.all
+{
+    width: 1330px;
+    height: 7300px;
+    background-color: #252525;
+}
+.first
+{
+    width: 1330px;
+    height: 900px;
+}
+.second
+{
+    width: 70%;
+    height: 15,5%;
+    margin-left: 15%;
+}
+.text1
+{
+    text-align: center;
+    font-weight: bold;
+    color: orange;
+    font-size: 35px;
+}
+.text2
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: #04849f;
+    margin-top: 10px;
+}
+.list1
+{
+    margin-left: 60px;
+    color: blanchedalmond;
+    font-size: 27px;
+    list-style: none;
+}
+.text3
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: green;
+    margin-top: 10px;
+}
+.list2
+{
+    margin-left: 60px;
+    color: blanchedalmond;
+    font-size: 27px;
+    list-style: none;
+}
+.link
+{
+    margin-left: 60px;
+    color: blanchedalmond;
+    font-size: 27px;
+    text-decoration: none;
+}
+.text4
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: #ffff00;
+    margin-top: 10px;
+}
+.text5
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    color: darkturquoise;
+    margin-top: 10px;
+}
+.tag
+{
+    color: #ffff00;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: right;
+    margin-top: 10px;
+}
+.text6
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: floralwhite;
+    margin-top: 30px;
+}
+.abc
+{
+    width: 1330px;
+    height: 1100px;
+}
+.last
+{
+    width: 1330px;
+    height: 40px;
+    background-color: aqua;
+}
+.te
+{
+    font-weight: bold;
+    color: maroon;
+    text-align: center;
+    padding: 10px;
+}
